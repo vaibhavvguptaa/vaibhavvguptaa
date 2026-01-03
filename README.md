@@ -1,128 +1,116 @@
-# 👋 Hi, I’m Vaibhav Gupta (aka V)
+# 👋 Vaibhav Gupta (V)
 
-🚀 **Data Engineer | AI / GenAI Platform Engineer (in progress)**  
-💡 Focused on building **scalable data pipelines, cloud data platforms, and AI-ready systems**
+🚀 **Data Engineer | AI / GenAI Platform Engineer**  
+💡 Building **scalable data pipelines, cloud-native data platforms, and AI-ready infrastructure**
 
----
-
-## 🧠 About Me
-
-I started my career as a **MERN Stack Developer**, then transitioned into a role where I worked on **production systems, ETL pipeline debugging, and operational reliability** while supporting large-scale knowledge systems.
-
-That journey pushed me toward **Data Engineering and AI Platform Engineering**, where I now focus on:
-
-- Building **reliable ETL pipelines**
-- Designing **analytics-ready data models**
-- Creating **GenAI-powered data systems**
-- Writing **production-quality, observable code**
-
-I believe **AI is only as good as the data pipelines behind it**.
+📍 India  
+🔗 LinkedIn: https://www.linkedin.com/in/vaibhavvvgupta/  
+✉️ Email: guptavaibhav720@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Who I Am
+
+I’m a **Data Engineer with hands-on experience working on production systems**, focused on building **reliable, observable, and scalable data pipelines** that support analytics and AI use cases.
+
+I started my career as a **MERN Stack Developer** and later transitioned into roles involving **ETL pipeline debugging, operational reliability, and large-scale knowledge systems**. This background gives me a strong engineering mindset around **failure handling, performance, and system design**.
+
+Today, I work at the intersection of **Data Engineering and AI Platform Engineering**, ensuring that data systems are **AI-ready, resilient, and maintainable**.
+
+> Strong AI systems are built on disciplined data engineering.
+
+---
+
+## 🛠️ Core Skills
 
 ### 💻 Programming & Querying
-- **Python**
-- **SQL**
-- Bash (Shell scripting)
+- **Python** – data processing, ETL pipelines, API ingestion
+- **SQL** – analytical queries, joins, window functions, optimization
+- **Bash / Shell** – automation, cron jobs, Linux workflows
 
 ### 🔄 Data Engineering
-- ETL / ELT Pipelines
-- Data Modeling (Star Schema, Fact/Dimension)
-- Data Quality & Validation
-- Batch Processing
+- ETL / ELT pipeline design
+- Data modeling (Fact & Dimension schemas)
+- Data quality checks & validation
+- Batch data processing
 
-### ☁️ Cloud & Platforms
-- Google Cloud Platform (BigQuery, IAM – learning)
-- Linux (CLI, cron, process monitoring)
-- Git & GitHub
+### ☁️ Platforms & Infrastructure
+- Linux (CLI, process monitoring, cron)
+- Git & GitHub (branching strategies, PRs)
+- Google Cloud Platform (BigQuery, IAM)
 
-### 🤖 AI / GenAI
-- Embeddings & Vector Search
+### 🤖 AI / GenAI Platforms
+- Embeddings & vector search
 - Retrieval-Augmented Generation (RAG)
-- AI-ready data pipelines
+- AI-oriented data pipelines
 - Data reliability for AI systems
 
 ---
 
-## 📂 Featured Projects
+## 📂 Highlighted Projects
 
 ### 🔹 Linux Data Engineering Toolkit
-Shell scripts for:
-- Cleaning CSV files  
-- Schema validation  
-- Detecting missing values  
+Shell-based utilities to:
+- Clean and normalize CSV files  
+- Validate schemas  
+- Detect missing or inconsistent data  
 
-📌 Focus: *Automation, reliability, real-world data ops*
+**Focus:** Automation, data reliability, real-world data operations
 
 ---
 
 ### 🔹 Python API → ETL Pipeline
-- API ingestion
-- Data cleaning & transformation
-- Retry logic & structured logging
+- API ingestion with retry logic
+- Data cleaning & transformations
+- Structured logging and error handling
 
-📌 Focus: *Production-grade ETL design*
+**Focus:** Production-grade ETL pipeline design
 
 ---
 
 ### 🔹 Advanced SQL Analytics Casebook
-- Complex joins & window functions
-- Query optimization
-- Analytical insights
+- Complex joins and window functions
+- Query optimization techniques
+- Business-oriented analytical insights
 
-📌 Focus: *Efficient data querying at scale*
+**Focus:** Writing efficient, scalable SQL
 
 ---
 
 ### 🔹 Airflow Production ETL Pipeline
 - DAG orchestration
-- Retries & alerting
 - Idempotent data loads
+- Retries, alerting, and failure handling
 
-📌 Focus: *Real-world pipeline reliability*
+**Focus:** Real-world pipeline reliability
 
 ---
 
-### 🔹 GenAI Knowledge Search System
-- Document ingestion
+### 🔹 GenAI Knowledge Search Platform
+- Document ingestion pipelines
 - Embedding generation
 - Vector similarity search
 - Natural language querying
 
-📌 Focus: *AI-ready data infrastructure*
+**Focus:** AI-ready data infrastructure
 
 ---
 
-## 🧭 Learning Roadmap (In Progress)
+## 📈 What I’m Working On
 
-✔ Linux & Bash  
-✔ Advanced SQL  
-✔ Python for Data Engineering  
-✔ ETL & Orchestration  
-✔ Cloud Data Warehousing  
-🚧 AI Platform Engineering (GenAI pipelines, feature stores)
+- Data observability and pipeline monitoring
+- AI feature pipelines with embedding refresh strategies
+- Cloud-native data architectures
 
-I document everything I learn through **projects and architecture-first thinking**.
-
----
-
-## 📈 What I’m Building Next
-
-- AI Feature Pipelines with embedding refresh & drift awareness  
-- Data observability & monitoring concepts  
-- Cloud-native data architectures  
+I document my work through **clear READMEs, architecture diagrams, and practical examples**.
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 💻 GitHub: You’re already here 🙂
-- ✉️ Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavvvgupta/  
+- ✉️ Email: guptavaibhav720@gmail.com  
 
 ---
 
-> ⚠️ I don’t just learn tools — I focus on **why systems fail, how they scale, and how data enables AI**.
-
+> I focus on **why data systems fail, how they scale, and how high-quality data enables AI**.
