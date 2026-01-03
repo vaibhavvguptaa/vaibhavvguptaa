@@ -1,4 +1,4 @@
-# 👋 Vaibhav Gupta (V)
+# 👋 Vaibhav Gupta
 
 🚀 **Data Engineer | AI / GenAI Platform Engineer**  
 💡 Building **scalable data pipelines, cloud-native data platforms, and AI-ready infrastructure**
