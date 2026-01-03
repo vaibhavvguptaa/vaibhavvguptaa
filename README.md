@@ -106,11 +106,4 @@ I document my work through **clear READMEs, architecture diagrams, and practical
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavvvgupta/  
-- ✉️ Email: guptavaibhav720@gmail.com  
-
----
-
 > I focus on **why data systems fail, how they scale, and how high-quality data enables AI**.
