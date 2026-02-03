@@ -47,10 +47,6 @@ Today, I work at the intersection of **Data Engineering and AI Platform Engineer
 
 ---
 
-**Focus:** AI-ready data infrastructure
-
----
-
 ## 📈 What I’m Working On
 
 - Data observability and pipeline monitoring
